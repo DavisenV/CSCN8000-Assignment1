@@ -55,9 +55,11 @@ CSCN8000-Assignment1/
 │   └── pd_speech_features.csv              # dataset
 ├── docs/
 │   └── cscn8000 Assignment1.pdf            # assignment instructions
+|   └── index.html                          # index.html for GitHub Pages
+├── predictions/
+│   └── test_predictions.csv                # test predictions (created by the notebook)
 ├── Davisen_Veerasamy_Assignment_1.ipynb    # Jupyter notebook with the code
 ├── Davisen_Veerasamy_Assignment_1.html     # HTML version of the notebook
-├── test_predictions.csv                    # test predictions (created by the notebook)
 └── README.md
 ```
 
